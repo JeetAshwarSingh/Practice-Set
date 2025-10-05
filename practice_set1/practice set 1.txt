@@ -1,9 +1,9 @@
 problem 1
 
-Generate a synthetic dataset (a CSV file ) in which each student must have a unique student ID. 
+Generate a synthetic dataset (a CSV file) in which each student must have a unique student ID. 
 Columns of the dataset must contain marks of the student in the mid-semester examination of subjects
 English, MPP, CPP and Maths
-Generate 4 such dataset using strictly only python such that:
+Generate 4 such dataset using only python such that:
 first dataset contains 20 rows
 second contains 200 rows
 third contains 2000 rows 
